@@ -12,6 +12,7 @@ namespace WindowsFormsApp4
 {
     public partial class Form1 : Form
     {
+        //this loads the form
         public Form1()
         {
             InitializeComponent();
